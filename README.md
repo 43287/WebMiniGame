@@ -1,3 +1,7 @@
+注：
+本项目为全AI项目，不包含任何人工编写的代码。包括除了这一行以外的readme文档。
+
+
 # 游戏大厅项目文档 (Game Lobby Project Documentation)
 
 本项目是一个基于 React + Express + Socket.IO 的实时多人游戏大厅，目前包含井字棋 (Tic-Tac-Toe) 和 UNO 游戏。
