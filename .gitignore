@@ -6,3 +6,14 @@ coverage/
 *.log
 .env*
 !.env.example
+
+# IDEs and Editors
+.trae/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+
