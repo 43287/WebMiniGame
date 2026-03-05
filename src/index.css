@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "ZCOOL KuaiLe", cursive, system-ui, sans-serif;
+}
